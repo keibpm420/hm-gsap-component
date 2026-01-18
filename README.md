@@ -1,6 +1,6 @@
-# JavaScript UI to GSAP
+# hm-gsap-component
 
-頻出の UI アニメーションを「Vanilla JS」から「GSAP」へ書き換えました。
+頻出の UI アニメーションをバニラJSからGSAPへ書き換えました。
 
 ## 概要
 
